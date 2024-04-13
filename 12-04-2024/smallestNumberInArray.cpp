@@ -13,3 +13,8 @@ int main(){
     return 0 ;
     
 }
+
+// Brute force approach 
+
+// complexity  = O(n*log(N))
+//space = O(n)

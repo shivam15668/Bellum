@@ -14,3 +14,6 @@ int main(){
 
 
 }
+
+//complexity 0(n logn)
+//space 0(n)

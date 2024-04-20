@@ -15,6 +15,8 @@ int sumOfElements(vector<int>&arr, int n ){
         sum += (arr[i]) ; 
     }
     cout<< "sum of all elements is" <<" "<< sum << endl ;
+    
+    return 0 ; 
 }
 
 int main(){
